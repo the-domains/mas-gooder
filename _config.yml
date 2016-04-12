@@ -1,0 +1,28 @@
+name: Mas Gooder
+favicon: null
+layout_spectrum: 0.7300677485764027
+typography_spectrum: 0.15655109100043774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6155669800937176
+  lightness: 0.4962793253362179
+  saturation: 0.04105294472537935
+  rhythmicContrast: 0.1984914594795555
+purpose: []
